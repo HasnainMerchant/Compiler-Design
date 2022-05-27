@@ -1,0 +1,10 @@
+int main()
+{
+	int a = 50, b = 50;
+	
+	float 148number;
+	
+	double c;
+	
+  	return 0;
+}
